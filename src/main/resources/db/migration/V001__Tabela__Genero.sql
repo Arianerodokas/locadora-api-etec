@@ -3,7 +3,7 @@ Create Table Genero(
     descricao varchar (100)
 );
 
-insert into genero(descricao) values ("Sitcom, Comedy");
-insert into genero(descricao) values ("Comedy and Crime");
-insert into genero(descricao) values ("Sitcom, Comedy and Policial Processual");
+insert into genero(descricao) values ("fantasia, ação");
+insert into genero(descricao) values ("comédia romantica");
+insert into genero(descricao) values ("aventura, fantasia");
 
