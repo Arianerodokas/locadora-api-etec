@@ -1,6 +1,6 @@
 package br.com.etec.gabies.locadoraapietec.repository.filter;
 
-public class FilmeFilter {
+public class FilmesFilter {
 
     private String nomefilme;
 
